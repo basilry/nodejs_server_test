@@ -2,6 +2,9 @@
   "scripts": {
     "server": "nodemon src/main.js"
   },
+  "engines": {
+    "node": "16.16.0"
+  },
   "devDependencies": {
     "@types/node": "^20.10.3",
     "eslint": "^8.55.0",
